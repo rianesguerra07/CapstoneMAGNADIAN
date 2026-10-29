@@ -43,7 +43,7 @@ MAGNADIAN was designed to be:
 <p align="center">
 <img src="https://i.imgur.com/2wUxoLp.png" height="80%" width="80%" alt="Components of MAGNADIAN"/>
 <br />
-Components of MAGNADIAN
+<em> Components of MAGNADIAN </em>
 </p>
 
 | Component | Role |
@@ -84,9 +84,21 @@ Three readings are taken: pure functionalized nanoparticles (background), pure c
 <h2>Experiments and Results</h2>
 
 - <b>Microplastic generation:</b> An industrial polyamide-coated filter was degraded in hydrogen peroxide under three conditions (room temperature, heat, and heat with stirring) over 6 days. FTIR showed the amide II peak growing over time, confirming realistic contaminant samples.
+<p align="center">
+<img src="https://i.imgur.com/4KEyNcu.png" height="80%" width="80%" alt="Components of MAGNADIAN"/>
+<br />
+<p align="center">
+<img src="https://i.imgur.com/dPFBQo6.png" height="80%" width="80%" alt="Components of MAGNADIAN"/>
+<br />
 - <b>Nanoparticle coating:</b> Dynamic light scattering showed the silane-PTFE coating reduced particle agglomeration by about 200 nm. VSM showed it also reduced magnetic response, a trade-off between stability and signal strength.
+<p align="center">
+<img src="https://i.imgur.com/w54CxW5.png" height="80%" width="80%" alt="Components of MAGNADIAN"/>
+<br />
+
+</p>
 - <b>Electronics:</b> A PSpice simulation of the amplifier circuit predicted a gain of 1.22 mV/nT across 0 to 300 nT. In testing, the TMR, amplifier, and Arduino responded to a permanent magnet moved from 30 cm away toward the sensor, with the readout shown on the LCD and saved to a CSV file.
-- <b>Design simplification:</b> Observations of nanoparticle buoyancy and the expected change in Brownian motion made the planned filtering step unnecessary, so the second enclosure was dropped. A permanent magnet was also used instead of an electromagnet.
+- <b>Design simplification:</b> Observations of nanoparticle buoyancy and the expected change in Brownian motion made the planned filtering step unnecessary, so the second enclosure was dropped. A permanent magnet was also used instead of an electromagnet. 
+<br>
 - <b>Cost:</b> $160 in materials per unit.
 
 <h2>Limitations and Next Steps</h2>
