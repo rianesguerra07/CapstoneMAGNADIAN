@@ -5,9 +5,9 @@ MAGNADIAN is a low-cost, portable mini magnetic particle relaxometer (mini-MPR) 
 <br />
 
 <p align="center">
-<img src="images/cad-model.png" height="80%" width="80%" alt="CAD model of MAGNADIAN"/>
-<br />
-CAD model of MAGNADIAN
+  <img src="(https://imgur.com/a/GGKkeL7)" width="80%" alt="CAD model of MAGNADIAN" />
+  <br />
+  <em>CAD model of MAGNADIAN</em>
 </p>
 
 <h2>The Problem</h2>
