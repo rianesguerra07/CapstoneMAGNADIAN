@@ -87,16 +87,22 @@ Three readings are taken: pure functionalized nanoparticles (background), pure c
   <li>
     <b>Microplastic generation:</b> An industrial polyamide-coated filter was degraded in hydrogen peroxide under three conditions (room temperature, heat, and heat with stirring) over 6 days. FTIR showed the amide II peak growing over time, confirming realistic contaminant samples.
     <p align="center">
-      <img src="https://i.imgur.com/4KEyNcu.png" height="80%" width="80%" alt="Components of MAGNADIAN"/>
+      <img src="https://i.imgur.com/4KEyNcu.png" height="80%" width="80%" alt="polyamide samples"/>
     </p>
     <p align="center">
-      <img src="https://i.imgur.com/dPFBQo6.png" height="80%" width="80%" alt="Components of MAGNADIAN"/>
+    <em>Set up for Polyamide Degradation Samples</em>
+    <p align="center">
+      <img src="https://i.imgur.com/dPFBQo6.png" height="80%" width="80%" alt="polyamide samples ftir"/>
     </p>
+    <p align="center">
+    <em>FTIR and DLS of Polyamide samples</em>
   </li>
   <li>
     <b>Nanoparticle coating:</b> Dynamic light scattering showed the silane-PTFE coating reduced particle agglomeration by about 200 nm. VSM showed it also reduced magnetic response, a trade-off between stability and signal strength.
     <p align="center">
       <img src="https://i.imgur.com/w54CxW5.png" height="80%" width="80%" alt="Components of MAGNADIAN"/>
+      <br/>
+      <em>Characterization Results of Magnetic Nanoparticles</em>
     </p>
   </li>
   <li>
