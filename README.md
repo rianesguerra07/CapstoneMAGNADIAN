@@ -3,9 +3,9 @@
 <h2>Description</h2>
 MAGNADIAN is a low-cost, portable mini magnetic particle relaxometer (mini-MPR) built as a University of Waterloo Nanotechnology Engineering capstone project. It combines tunnel magnetoresistance (TMR) sensors with functionalized magnetic nanoparticles (MNPs) to detect and quantify contaminants. As a proof of concept, it targets micro- and nanoplastic (polyamide) contamination in hydrogen peroxide manufacturing.
 <br />
-
+<br />
 <p align="center">
-  <img src="(https://imgur.com/a/GGKkeL7)" width="80%" alt="CAD model of MAGNADIAN" />
+  <img src="https://i.imgur.com/goEOfI8.png" height="80%" width="80%" alt="CAD model of MAGNADIAN" />
   <br />
   <em>CAD model of MAGNADIAN</em>
 </p>
@@ -41,7 +41,7 @@ MAGNADIAN was designed to be:
 <h2>Prototype Components</h2>
 
 <p align="center">
-<img src="images/prototype-components.png" height="80%" width="80%" alt="Components of MAGNADIAN"/>
+<img src="https://i.imgur.com/2wUxoLp.png" height="80%" width="80%" alt="Components of MAGNADIAN"/>
 <br />
 Components of MAGNADIAN
 </p>
